@@ -1,0 +1,10 @@
+phidata
+langchain_groq
+streamlit
+pypdf
+pgvector 
+sqlalchemy
+psycopg[binary]
+google-generativeai
+langchain-community
+langchainhub 
